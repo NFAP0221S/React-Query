@@ -80,7 +80,7 @@ export function Posts() {
 - Next page 버튼은 currentPage 값이 maxPostPage일 경우 비활성화 된다.
 - Next page 버튼 클릭 시, currentPage 값에 1을 더한다.
 
-- 하지만 버튼을 누를 때 마다 로딩문구가 보인다.
+하지만 버튼을 누를 때 마다 로딩문구가 보인다.
 <br />
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/102638663/210723344-254ae79f-7ed5-41fb-9fb4-f1ceb0dae6fb.png">
 <br />
