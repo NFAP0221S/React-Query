@@ -106,6 +106,6 @@ export function Posts() {
 
 - keepPreviousData를 `true`로 설정하면 쿼리 키가 변경되어서 새로운 데이터를 요청하는 동안에도 마지막 data 값을 유지한다.
   <br />
-  image.png
+ <img width="813" alt="image" src="https://user-images.githubusercontent.com/102638663/210734916-2b4f666f-a45b-478b-b44d-0f7308541a96.png">
   <br />
   2 페이지이지만 3페이지의 데이터를 미리 가져와 캐시에 추가되어있다.
