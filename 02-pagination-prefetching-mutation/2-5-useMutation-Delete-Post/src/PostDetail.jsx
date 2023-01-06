@@ -30,6 +30,7 @@ export function PostDetail({ post }) {
     () => fetchComments(post.id)
   );
 
+  // useMuation
   const deleteMutation = useMutation((postId) => deletePost(postId));
 
   if (isLoading) {
